@@ -1,0 +1,16 @@
+E:\Documentos\Workspaces\POO\Labs\Lab01\bin\Debug\net5.0\Lab01.exe
+E:\Documentos\Workspaces\POO\Labs\Lab01\bin\Debug\net5.0\Lab01.deps.json
+E:\Documentos\Workspaces\POO\Labs\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.json
+E:\Documentos\Workspaces\POO\Labs\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.dev.json
+E:\Documentos\Workspaces\POO\Labs\Lab01\bin\Debug\net5.0\Lab01.dll
+E:\Documentos\Workspaces\POO\Labs\Lab01\bin\Debug\net5.0\ref\Lab01.dll
+E:\Documentos\Workspaces\POO\Labs\Lab01\bin\Debug\net5.0\Lab01.pdb
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.csprojAssemblyReference.cache
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfoInputs.cache
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfo.cs
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.csproj.CoreCompileInputs.cache
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.dll
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\ref\Lab01.dll
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.pdb
+E:\Documentos\Workspaces\POO\Labs\Lab01\obj\Debug\net5.0\Lab01.genruntimeconfig.cache
