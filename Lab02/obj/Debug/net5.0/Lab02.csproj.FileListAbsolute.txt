@@ -1,0 +1,16 @@
+E:\Documentos\Workspaces\POO\Labs\Lab02\bin\Debug\net5.0\Lab02.exe
+E:\Documentos\Workspaces\POO\Labs\Lab02\bin\Debug\net5.0\Lab02.deps.json
+E:\Documentos\Workspaces\POO\Labs\Lab02\bin\Debug\net5.0\Lab02.runtimeconfig.json
+E:\Documentos\Workspaces\POO\Labs\Lab02\bin\Debug\net5.0\Lab02.runtimeconfig.dev.json
+E:\Documentos\Workspaces\POO\Labs\Lab02\bin\Debug\net5.0\Lab02.dll
+E:\Documentos\Workspaces\POO\Labs\Lab02\bin\Debug\net5.0\ref\Lab02.dll
+E:\Documentos\Workspaces\POO\Labs\Lab02\bin\Debug\net5.0\Lab02.pdb
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.csprojAssemblyReference.cache
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.AssemblyInfoInputs.cache
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.AssemblyInfo.cs
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.csproj.CoreCompileInputs.cache
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.dll
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\ref\Lab02.dll
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.pdb
+E:\Documentos\Workspaces\POO\Labs\Lab02\obj\Debug\net5.0\Lab02.genruntimeconfig.cache
